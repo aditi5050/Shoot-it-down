@@ -1,2 +1,2 @@
 # Shoot-it-down
-A hooting game made using python :)
+A Shooting game made using python :)
